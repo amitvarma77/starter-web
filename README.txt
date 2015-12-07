@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for showing
-how to use GIT and GITHUB. Adding a line for rebasing example
+how to use GIT and GITHUB. Adding a line for rebasing example,then more changes from my feature bramches
 
 ## Introduction
 
