@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    AMIT RAJ VARMA  amitvarma77@gmail.com
+	
 
 # THANKS
 
